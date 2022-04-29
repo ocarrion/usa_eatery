@@ -181,3 +181,19 @@ strong{
     font-family: "Varela Round", sans-serif;
     color: #878787;
 }
+
+
+.login{
+    padding: 10px 50px;
+    margin: 0 20px;
+    border: none;
+    margin: 0 20px;
+    border: 1px solid #22c8e5 !important;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    font-family: "Varela Round", sans-serif;
+    -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  text-overflow: '';
+  text-align: center;
+}
